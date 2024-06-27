@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonáš</h1>
 <h3 align="center">A weird wannabe programmer</h3>
 
-<div align="center">
-<div style="max-width: 400px;" markdown="1">
+<div align="center" markdown="1">
 
-- 😜 I'm 18 years old and still in IT school 🥱
-- 👩‍💻 I code **random things** for fun
-- ⚡ Fun fact **I love schnitzels**
-</div>
+😜 I'm 18 years old and still in IT school 🥱
+
+👩‍💻 I code **random things** for fun
+
+⚡ Fun fact **I love schnitzels**
 </div>
 <h3 align="center">My social media</h3>
 <p align="center">
